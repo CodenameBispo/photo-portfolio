@@ -11,3 +11,4 @@ Checklist ! Doing well
 10- Realizar alteração indesejada !
 11- atualizar textos! 
 12- Fazer um git reset!
+13- Utilizar novo recurso add -p
