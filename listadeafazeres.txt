@@ -1,4 +1,4 @@
-Checklist !
+Checklist ! Doing well
 1- Fazer o primeiro ADD, commit e pull para o repositório remoto !
 2- Confirmar a atualização no GIT HUB !
 3- Atualizar meu repositório local !
