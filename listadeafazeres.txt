@@ -1,9 +1,10 @@
 Checklist !
 1- Fazer o primeiro ADD, commit e pull para o repositório remoto !
 2- Confirmar a atualização no GIT HUB !
-
+3- Atualizar meu repositório local !
+4- Criar uma nova branch!
+5- Fazer o merge dessa nova branch !
+6- Subir para o repositório remoto !
 7- Confirmar atualizações da lista !
 8- Alterar titulo lista de afazares !
 9- Realizar o rebase no repositório local !
-10- Realizar um mudança que não quer
-11- Usar o git revert
