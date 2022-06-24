@@ -1,8 +1,6 @@
 Checklist !
 1- Fazer o primeiro ADD, commit e pull para o repositório remoto !
-2- Confirmar a atualização no GIT HUB !
-3- Atualizar meu repositório local !
-4- Criar uma nova branch!
+
 5- Fazer o merge dessa nova branch !
 6- Subir para o repositório remoto !
 7- Confirmar atualizações da lista !
@@ -10,3 +8,6 @@ Checklist !
 9- Realizar o rebase no repositório local !
 10- Realizar alteração indesejada !
 11- realizar o git revert !
+12- Nova mudança
+13- Git Reset HARD
+14- Git Reset Soft
