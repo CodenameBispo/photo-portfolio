@@ -9,4 +9,5 @@ Checklist !
 8- Alterar titulo lista de afazares !
 9- Realizar o rebase no repositório local !
 10- Realizar alteração indesejada !
-11- realizar o git revert !
+11- atualizar textos
+12- Fazer um git reset
