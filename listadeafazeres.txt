@@ -1,0 +1,2 @@
+Lista de afazeres
+1- Fazer o primeiro ADD, commit e pull para o repositório remoto
