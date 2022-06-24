@@ -2,3 +2,6 @@ Lista de afazeres
 1- Fazer o primeiro ADD, commit e pull para o repositório remoto !
 2- Confirmar a atualização no GIT HUB !
 3- Atualizar meu repositório local !
+4- Criar uma nova branch
+5- Fazer o merge dessa nova branch
+6- Subir para o repositório remoto
